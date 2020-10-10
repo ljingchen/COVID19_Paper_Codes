@@ -4,4 +4,4 @@ Welcome! This git repository contains all data and codes that we used for our pa
 
 
 
-If you have any questions, please contact Jingchen Liang at jingchenl@smu.edu
+If you have any questions, please contact Jingchen Liang at jingchenl@smu.edu and Anthony Tanaydin at anaydin@smu.edu.
