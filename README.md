@@ -1,6 +1,6 @@
 # COVID19_Paper_Codes
 
-Welcome! This git repository contains all data and codes that we used for our paper.
+Welcome! This git repository contains all data and codes that we used for our paper.   
 
 
 
